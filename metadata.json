@@ -1,0 +1,6 @@
+{
+  "name": "Favo de Mel Festas Infantil",
+  "description": "Landing page institucional para o buffet e salão de eventos infantis Favo de Mel em São Miguel do Oeste - SC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

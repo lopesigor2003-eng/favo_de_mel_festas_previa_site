@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="16" fill="#0A0A0A" />
+  <!-- Golden Hexagon (Honeycomb) -->
+  <polygon points="32,8 52,19.5 52,42.5 32,54 12,42.5 12,19.5" fill="none" stroke="#FFD700" stroke-width="3.5" stroke-linejoin="round" />
+  <polygon points="32,15 46,23 46,39 32,47 18,39 18,23" fill="#FFD700" fill-opacity="0.15" />
+  <!-- Honey Bee / Party Sparkle Motif in Pure Gold -->
+  <path d="M32 20 C27 20 23 24 23 29 C23 35 29 42 32 44 C35 42 41 35 41 29 C41 24 37 20 32 20 Z" fill="#FFD700" />
+  <circle cx="32" cy="27" r="2.5" fill="#0A0A0A" />
+  <!-- Crown / Star sparkle on top -->
+  <polygon points="32,11 34,16 39,16 35,19 37,24 32,21 27,24 29,19 25,16 30,16" fill="#FFD700" />
+</svg>
